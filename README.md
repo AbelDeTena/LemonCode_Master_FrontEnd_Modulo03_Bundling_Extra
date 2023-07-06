@@ -1,4 +1,4 @@
-# Master Frontend Módulo 3 Bundler :lemon:
+# Master Frontend Módulo 3 Bundling :lemon:
 
 ## Ejercicio Extra :trophy:
 
